@@ -1,7 +1,6 @@
 # Trafic Object Recognition - OpenVINO
 
-Implementation of  object detection and semantic segmentation of traffic objects in the front facing car camera using OpenVINO.
-
+Implementation of  object detection and semantic segmentation of traffic objects in the front facing car camera  using OpenVINO's pretrained models.
 ## Demo
 
 ![4K Mask RCNN COCO Object detection and segmentation #2](https://gitlab.com/willyfitrahendria/trafic-object-recognition-openvino/-/raw/master/demo/driving_jakarta.gif)
