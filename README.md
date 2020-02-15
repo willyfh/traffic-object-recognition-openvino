@@ -4,7 +4,7 @@ Implementation of  object detection and semantic segmentation of traffic objects
 
 ## Demo
 
-[![4K Mask RCNN COCO Object detection and segmentation #2](https://gitlab.com/willyfitrahendria/trafic-object-recognition-openvino/-/raw/master/demo/driving_jakarta.gif)]
+![4K Mask RCNN COCO Object detection and segmentation #2](https://gitlab.com/willyfitrahendria/trafic-object-recognition-openvino/-/raw/master/demo/driving_jakarta.gif)
 
 ## Prerequisite
 *  Setup [OpenvINO](https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_linux.html)
